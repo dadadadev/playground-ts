@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/playground-ts/static/css/main.19393e92.chunk.css",
+    "main.js": "/playground-ts/static/js/main.fd46eca8.chunk.js",
+    "main.js.map": "/playground-ts/static/js/main.fd46eca8.chunk.js.map",
+    "runtime~main.js": "/playground-ts/static/js/runtime~main.2588409a.js",
+    "runtime~main.js.map": "/playground-ts/static/js/runtime~main.2588409a.js.map",
+    "static/js/2.b41502e9.chunk.js": "/playground-ts/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/playground-ts/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/playground-ts/index.html",
+    "precache-manifest.7c47c2b02b033b6fd66deae7e6604e41.js": "/playground-ts/precache-manifest.7c47c2b02b033b6fd66deae7e6604e41.js",
+    "service-worker.js": "/playground-ts/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/playground-ts/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/playground-ts/static/media/logo.5d5d9eef.svg"
+  }
+}
